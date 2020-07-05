@@ -1,0 +1,36 @@
+.navbar{
+    opacity: 0.8;
+    border-bottom: 1px solid #fff;
+}
+footer{
+     opacity: 0.8;
+}
+.profile {
+    text-align: center;
+}
+.profile img {
+    max-width: 100%;
+    width: 400px;
+    height: auto;
+    border-radius: 100%;
+    margin-bottom: 1rem;
+}
+profile p {
+    opacity: 0.6;
+    font-style: italic;
+    letter-spacing: 1px;
+    font-size: 2rem;
+    margin-bottom: 1.8rem;
+}
+
+.profile h1 {
+    margin-bottom: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.profile button {
+    font-family: 'Montserrat', sans-serif;
+
+}
